@@ -18,7 +18,17 @@ All classification metrics are provided to a complete comparison for the model p
 
 
 ## Data Source
-The data could be downloaded from [here](https://www.kaggle.com/henrysue/online-shoppers-intention)
+- The data could be downloaded from [here](https://www.kaggle.com/henrysue/online-shoppers-intention)
 
 ## Repo Content
 
+    .
+    ├── Data Info                                   # data introduction
+    ├── data_label.csv                              # processed data label for training
+    ├── Data Modeling.ipynb                         # data modeling on google collab
+    ├── Data Preprocessing and Analysis.ipynb       # data preprocessing on jupyter notebook
+    ├── online_shoppers_intention.csv               # orignal data file
+    ├── processed_data.csv                          # processed data for training
+    ├── lrc_best_params.pkl                         # grid search params for logistic regression model
+    ├── svm_best_params.pkl                         # grid search params for support vector machine model
+    └── xgb_best_params.pkl                         # grid search params for xgboost model
