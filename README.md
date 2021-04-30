@@ -5,7 +5,7 @@
 non-supervised learning, and some data collection projects. It's a self-challenge portfolio for 2021 summer season. 
 
 
-- All projects will be implemented either on Jupyter Notebook or Google Collab
+- All projects are implemented either on Jupyter Notebook or Google Collab
 
 ## Built With 
 * [TensorFlow 2.3.0](https://www.tensorflow.org/)
@@ -13,6 +13,14 @@ non-supervised learning, and some data collection projects. It's a self-challeng
 * [Pandas](https://pandas.pydata.org/)
 * [XGBoost](https://xgboost.readthedocs.io/en/latest/) 
 * [Scikit-learn](https://scikit-learn.org/stable/)
+
+## Project List
+
+    |             Project           |       Type     |       Status     |
+    | ----------------------------- | -------------- | ---------------- |
+    | Online Shopping Intention ML  | Classification |      Finished    |
+    | Gender Classification         | Classification |     In-progress  |
+    
 
 ## Contact
 * K. Yang: kyang3@lakeheadu.ca
