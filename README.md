@@ -19,7 +19,7 @@ non-supervised learning, and some data collection projects. It's a self-challeng
     |             Project           |       Type     |       Status     |
     | ----------------------------- | -------------- | ---------------- |
     | Online Shopping Intention ML  | Classification |      Finished    |
-    | Gender Classification         | Classification |     In-progress  |
+    | Heart Disease Classification  | Classification |     In-progress  |
     
 
 ## Contact
