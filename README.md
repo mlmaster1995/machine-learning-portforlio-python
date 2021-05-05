@@ -16,10 +16,12 @@ non-supervised learning, and some data collection projects. It's a self-challeng
 
 ## Project List
 
-    |             Project           |       Type     |       Status     |
-    | ----------------------------- | -------------- | ---------------- |
-    | Online Shopping Intention ML  | Classification |      Finished    |
-    | Heart Disease Classification  | Classification |     In-progress  |
+    |                        Project Dataset                  |               Type                |       Status     |
+    | ------------------------------------------------------- | --------------------------------- | ---------------- |
+    |                 Online Shopping Intention ML            | Classification & Feature Analysis |      Finished    |
+    |                 Heart Disease Classification            | Classification & Feature Analysis |      Finished    |
+    |                  Stroke Prediction Dataset              | Classification & Feature Analysis |    In Progress   |
+    | HR Analytics: Job Change of Data Scientists Dataset     | Classification & Feature Analysis |    In Progress   |
     
 
 ## Contact
